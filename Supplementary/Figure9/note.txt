@@ -1,1 +1,2 @@
 
+% The full dataset is 30GB,and can be acquired by approaching the corresponding author (balpreet.singh.ahluwalia@uit.no). This sample is cropped and the number of frames reduced. The stacks should be merged to one stack ("concatenate" in Fiji) before processing.
