@@ -1,1 +1,2 @@
 
+%parameters used: NA1.2, emission 680nm, pixelsize 107nm
