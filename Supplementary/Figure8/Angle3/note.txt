@@ -1,2 +1,0 @@
-
-The stacks should be merged to one stack ("concatenate" in Fiji) before processing.
